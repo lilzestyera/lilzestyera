@@ -1,16 +1,13 @@
-## Hi there 👋
+# hello from Singapore, i'm lilzestyera 👋
 
-<!--
-**lilzestyera/lilzestyera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🎯 This year's goal: ship something every month
+- 🚀 Interested in data engineering
+- 👯 Open to collaborating on open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilzestyera&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lilzestyera&hide_border=true&theme=onedark" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Pandas-ff7b72?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-ff7b72?style=for-the-badge&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/SQL-ff7b72?style=for-the-badge&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-ff7b72?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/DuckDB-ff7b72?style=for-the-badge&logoColor=white" alt="DuckDB" />
